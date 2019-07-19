@@ -1,0 +1,8 @@
+#+TITLE: Chives
+Have the power of the chives!
+* How to use chives
+  ~chives <item> <command>~
+  - About :: ~chives about~
+  - Create :: ~chives <item> create~
+  - Destroy :: ~chives <item> destroy~
+  Chives cannot destroy themselves, so ~chives chives destroy~ will fail with the error "We will not destroy ourselves!"
